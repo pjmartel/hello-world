@@ -5,4 +5,6 @@ My name is Paulo and I'm from Portugal. Byebye.
 I'm adding a second paragraph to this file, just for
 testing purposes.
 
+A third paragraph is created.
+
 
